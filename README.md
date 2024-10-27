@@ -1,1 +1,1 @@
-# Rock_Paper_Scissors_Mini-Game
+Designing a Rock Paper Scissors Mini Game Project in Python
